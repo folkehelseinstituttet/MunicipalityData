@@ -1,5 +1,5 @@
 Package: municipdata
-Title: Structural Data for Norway
+Title: Structural Data for Norway.
 Version: 2019.11.26
 Authors@R: person("Henning", "Øien", email = "Henning.Oien@fhi.no", role = c("aut", "cre"))
 Description: Provides municipal data for Norway.
