@@ -6,8 +6,3 @@ gen_data_all <- function(base_loc) {
   days <- gen_days()
   save(days, file = file.path(base_loc, "days.rda"), compress = "bzip2")
 }
-
-
-
-
-
